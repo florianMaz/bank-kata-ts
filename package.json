@@ -1,0 +1,19 @@
+{
+  "name": "bank-data-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Account.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.4.1",
+    "@types/jest": "^29.4.0",
+    "ts-jest": "^29.0.5"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
